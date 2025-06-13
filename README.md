@@ -1,7 +1,11 @@
 # dev-bootcamp
 
 ### Week 1 Goals
-- Set up dev tools
-- Build personal HTML/CSS portfolio site
-- Use Git for all commits
-- Dockerize and deploy to Proxmox
+- [X] Set up dev tools
+  - [X] Docker (Docker-Desktop on windows)
+  - [X] VSCode
+  - [ ] Go
+  - [ ] Node.js + `npm`
+- [ ] Build personal HTML/CSS portfolio site
+- [ ] Use Git for all commits
+- [ ] Dockerize and deploy to server VM on Proxmox
